@@ -20,7 +20,7 @@
   },
   "tabBar": {
     "color": "#7A7E83",
-    "selectedColor": "#005B8B",
+    "selectedColor": "#000000",
     "borderStyle": "black",
     "backgroundColor": "#ffffff",
     "list": [
@@ -29,7 +29,13 @@
         "iconPath": "images/tar-home.png",
         "selectedIconPath": "images/tar-home-on.png",
         "text": "首页"
-      },     
+      },
+      {
+        "pagePath": "pages/topic/topic",
+        "iconPath": "images/tar-topic.png",
+        "selectedIconPath": "images/tar-topic-on.png",
+        "text": "专题"
+      },
       {
         "pagePath": "pages/about/about",
         "iconPath": "images/watch-life-logo-80.jpg",
