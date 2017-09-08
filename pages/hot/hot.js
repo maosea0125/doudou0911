@@ -56,7 +56,7 @@ Page({
   },
   onShareAppMessage: function () {
 
-    var title = "分享“守望轩”的热点文章。";
+    var title = "分享“豆爸豆妈”的热点文章。";
     var path ="pages/hot/hot";
     return {
       title: title,

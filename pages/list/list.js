@@ -49,7 +49,7 @@ Page({
   },
   onShareAppMessage: function () {
 
-    var title = "分享“守望轩”";
+    var title = "分享“豆爸豆妈”";
     var path =""
 
     if (this.data.categories && this.data.categories != 0)

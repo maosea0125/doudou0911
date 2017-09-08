@@ -25,7 +25,7 @@ Page({
   },
   onLoad:function(options){
     wx.setNavigationBarTitle({
-      title: '守望轩-专题',
+      title: '豆爸豆妈-专题',
       success: function (res) {
         // success
       }
@@ -67,7 +67,7 @@ Page({
 
   onShareAppMessage: function () {
     return {
-      title: '分享“守望轩”小程序的专题栏目.',
+      title: '分享“豆爸豆妈”小程序的专题栏目.',
       path: 'pages/topic/topic',
       success: function (res) {
         // 转发成功

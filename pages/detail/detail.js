@@ -74,7 +74,7 @@ Page({
     },
     onShareAppMessage: function () {
         return {
-            title: '分享"守望轩"的文章：' + this.data.detail.title.rendered,
+            title: '分享"豆爸豆妈"的文章：' + this.data.detail.title.rendered,
             path: 'pages/detail/detail?id=' + this.data.detail.id,
             success: function (res) {
                 // 转发成功
