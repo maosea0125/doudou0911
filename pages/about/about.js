@@ -27,7 +27,7 @@ Page({
   },
   onLoad: function (options) {
     wx.setNavigationBarTitle({
-      title: '关于WordPress微信小程序',
+      title: '关于豆爸豆妈',
       success: function (res) {
         // success
       }
@@ -37,7 +37,7 @@ Page({
   },
   onShareAppMessage: function () {
     return {
-      title: '关于“守望轩”官方小程序',
+      title: '豆爸豆妈',
       path: 'pages/about/about',
       success: function (res) {
         // 转发成功

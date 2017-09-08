@@ -9,7 +9,7 @@
  * Copyright (c) 2017 https://www.watch-life.net All rights reserved.
  */
 
-var DOMAIN = "www.watch-life.net";
+var DOMAIN = "app.doudou0911.com";
 var HOST_URI = 'https://' + DOMAIN+'/wp-json/wp/v2/';
 var HOST_URI_WATCH_LIFE_JSON = 'https://' + DOMAIN + '/wp-json/watch-life-net/v1/';
 

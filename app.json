@@ -14,7 +14,7 @@
   "window": {
     "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "#296FD0",
-    "navigationBarTitleText": "守望轩",
+    "navigationBarTitleText": "豆爸豆妈",
     "navigationBarTextStyle": "#fff"
    
   },
@@ -30,19 +30,6 @@
         "selectedIconPath": "images/tar-home-on.png",
         "text": "首页"
       },     
-      {
-        "pagePath": "pages/topic/topic",
-        "iconPath": "images/tar-topic.png",
-        "selectedIconPath": "images/tar-topic-on.png",
-        "text": "专题"
-      }
-      ,
-      {
-        "pagePath": "pages/hot/hot",
-        "iconPath": "images/hot.png",
-        "selectedIconPath": "images/hot-on.png",
-        "text": "热点"
-      },
       {
         "pagePath": "pages/about/about",
         "iconPath": "images/watch-life-logo-80.jpg",
